@@ -1,0 +1,10 @@
+#CLion
+.idea
+#VSCode
+.vscode
+#binaries
+*/*/*/src/main.DSYM
+#/test binaries
+*/*/*/test/test.dSYM
+#macOS
+.DS_Store
